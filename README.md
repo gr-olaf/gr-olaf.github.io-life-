@@ -2,7 +2,7 @@
 Реализация клеточного автомата математика Джона Конвея.  
 Игра представляет собой поле, которое является сеткой, каждая ячейка которого - клетка 10х10.  
 Игроку необходимо задать начальное состояние игры, путём кликов мышью по ячейкам поля.
-![image](https://github.com/gr-olaf/Life/blob/main/assets/1.png)  
+![image](https://user-images.githubusercontent.com/108979797/216727353-5eb10965-74d4-4866-af08-48db3fa06b05.png)  
 Затем остается лишь нажать кнопку "Start", и игра будет продолжаться без участия кого-либо.
-![image](https://github.com/gr-olaf/Life/blob/main/assets/2.png)  
+![image](https://user-images.githubusercontent.com/108979797/216727404-bf4cf56d-218e-4022-98ad-f1aab3ef7996.png)  
 Приятного наблюдения! =D
